@@ -1,2 +1,2 @@
 # git-init
-cidci 3250 project
+csci 3250 project
